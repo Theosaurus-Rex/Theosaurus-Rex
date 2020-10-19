@@ -1,5 +1,18 @@
 ![Header](https://github.com/Theosaurus-Rex/Theosaurus-Rex/blob/main/github-header.png?raw=true "Header")
 
+# Hi there! I'm Theo, trans guy, dinosaur lover and junior developer
+
+## 🔭 I’m currently working on ...
+
+A personal portfolio website
+
+## 🌱 I’m currently learning ...
+
+The ins and outs of Git and GitHub
+
+## 📫 How to reach me:
+
+Email me at theosaurus13@gmail.com
 
 <!--
 **Theosaurus-Rex/Theosaurus-Rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
