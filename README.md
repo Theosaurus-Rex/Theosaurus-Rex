@@ -1,4 +1,5 @@
-### Hi there 👋
+![Header](https://github.com/Theosaurus-Rex/Theosaurus-Rex/blob/main/github-header.png?raw=true "Header")
+
 
 <!--
 **Theosaurus-Rex/Theosaurus-Rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
