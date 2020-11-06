@@ -8,11 +8,12 @@ A personal portfolio website
 
 ## 🌱 I’m currently learning ...
 
-The ins and outs of Git and GitHub
+Ruby!
 
 ## 📫 How to reach me:
 
 Email me at theosaurus13@gmail.com
+You can also find me on Twitter at @dino_coder
 
 <!--
 **Theosaurus-Rex/Theosaurus-Rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
