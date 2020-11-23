@@ -2,13 +2,17 @@
 
 # Hi there! I'm Theo, trans guy, dinosaur lover and junior developer
 
+## 😄 Pronouns...
+
+He/Him or They/Them - either is fine!
+
 ## 🔭 I’m currently working on ...
 
-A personal portfolio website
+A website portfolio for my fine arts practice!
 
 ## 🌱 I’m currently learning ...
 
-Ruby!
+Learning Ruby and how to develop terminal apps, as well as some PHP on the side!
 
 ## 📫 How to reach me:
 
