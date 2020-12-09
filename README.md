@@ -8,11 +8,11 @@ He/Him or They/Them - either is fine!
 
 ## 🔭 I’m currently working on ...
 
-A website portfolio for my fine arts practice!
+A CLI Trivia Game in Ruby!
 
 ## 🌱 I’m currently learning ...
 
-Learning Ruby and how to develop terminal apps, as well as some PHP on the side!
+JavaScript!
 
 ## 📫 How to reach me:
 
