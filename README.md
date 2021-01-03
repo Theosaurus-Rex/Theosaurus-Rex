@@ -1,6 +1,7 @@
 ![Header](https://github.com/Theosaurus-Rex/Theosaurus-Rex/blob/main/github-header.png?raw=true "Header")
 
 # Hi there! I'm Theo, trans guy, dinosaur lover and junior developer
+I'm a student at Coder Academy Sydney studying to become a full stack developer, due to graduate September 2021.
 
 ## 😄 Pronouns...
 
@@ -8,7 +9,7 @@ He/Him or They/Them - either is fine!
 
 ## 🔭 I’m currently working on ...
 
-A CLI Trivia Game in Ruby!
+50 Projects 50 Days Course by Brad Traversy and Florin Pop
 
 ## 🌱 I’m currently learning ...
 
