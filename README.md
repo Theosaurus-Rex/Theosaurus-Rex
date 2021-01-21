@@ -13,7 +13,7 @@ He/Him or They/Them - either is fine!
 
 ## 🌱 I’m currently learning ...
 
-JavaScript!
+Ruby On Rails, PostgresQL
 
 ## 📫 How to reach me:
 
