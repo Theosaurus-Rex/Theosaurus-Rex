@@ -9,11 +9,11 @@ He/Him or They/Them - either is fine!
 
 ## 🔭 I’m currently working on ...
 
-50 Projects 50 Days Course by Brad Traversy and Florin Pop
+Updating/rebuilding my portfolio site
 
 ## 🌱 I’m currently learning ...
 
-Ruby On Rails, PostgresQL
+React and Javascript!
 
 ## 📫 How to reach me:
 
