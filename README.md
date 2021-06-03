@@ -1,4 +1,4 @@
-![Header](https://github.com/Theosaurus-Rex/Theosaurus-Rex/blob/main/github-header.png?raw=true "Header")
+![Purple Gradient Geometry Maths Google Classroom Header (1)](https://user-images.githubusercontent.com/71990001/120571266-18ae2280-c45d-11eb-8e2a-26736627ae70.png)
 
 # Hi there! I'm Theo, trans guy, dinosaur lover and junior developer
 I'm a student at Coder Academy Sydney studying to become a full stack developer, due to graduate September 2021.
