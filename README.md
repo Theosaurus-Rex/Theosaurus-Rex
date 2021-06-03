@@ -13,7 +13,7 @@ Updating/rebuilding my portfolio site
 
 ## 🌱 I’m currently learning ...
 
-React and Javascript!
+React Hooks and Routes
 
 ## 📫 How to reach me:
 
