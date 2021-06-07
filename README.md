@@ -9,11 +9,11 @@ He/Him or They/Them - either is fine!
 
 ## 🔭 I’m currently working on ...
 
-Updating/rebuilding my portfolio site
+Building side projects in ReactJS
 
 ## 🌱 I’m currently learning ...
 
-React Hooks and Routes
+How to use Ruby on Rails in API mode
 
 ## 📫 How to reach me:
 
