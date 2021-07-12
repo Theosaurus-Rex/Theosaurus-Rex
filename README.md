@@ -1,7 +1,8 @@
 ![Banner Image](https://i.ibb.co/P4XQwXK/Purple-Gradient-Geometry-Maths-Google-Classroom-Header-1.png)
 
-# Hi there! I'm Theo, trans guy, dinosaur lover and junior developer
-I'm a student at Coder Academy Sydney studying to become a full stack developer, due to graduate September 2021.
+# Hi there! I'm Theo Harris
+I'm a student at Coder Academy Sydney studying to become a full stack developer, due to graduate August 2021.
+You can find my official portfolio at www.theo-harris.tech
 
 ## 😄 Pronouns...
 
