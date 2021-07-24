@@ -14,7 +14,7 @@ My final assessment task at Coder Academy!
 
 ## 🌱 I’m currently learning ...
 
-Cypress end-to-end testing
+TypeScript
 
 ## 📫 How to reach me:
 
