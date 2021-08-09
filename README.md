@@ -14,7 +14,7 @@ My final assessment task at Coder Academy!
 
 ## 🌱 I’m currently learning ...
 
-TypeScript
+Revising my React fundamentals
 
 ## 📫 How to reach me:
 
