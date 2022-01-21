@@ -23,7 +23,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m an Associate M365 Developer at Engage Squared Australia
+- 👨🏽‍💻 I’m a Junior Consultant at Alembic Australia
 - 🌱 I’m currently diving deeper into UI/UX design.
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
