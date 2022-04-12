@@ -5,6 +5,7 @@
 I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. I enjoy front-end development and I am always eager to create the best user experience possible! I also have a passion for the intersection of art and code and how technology can help artists innovate, create, and deliver powerful messages.
 </p>
 
+- 💧 Currently working with Elixir and Phoenix LiveView
 - 🔎 I’m looking to improve my UX/UI skills
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [theosaurus13@gmail.com](mailto:theosaurus@gmail.com).
