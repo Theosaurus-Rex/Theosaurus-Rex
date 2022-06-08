@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. I enjoy front-end development and I am always eager to create the best user experience possible! I also have a passion for the intersection of art and code and how technology can help artists innovate, create, and deliver powerful messages.
+I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. Currently, my tech stack consists of Elixir, Phoenix LiveView and the Ash Framework for Ecto. I enjoy front-end development and I am always eager to create the best user experience possible! I also have a passion for the intersection of art and code and how technology can help artists innovate, create, and deliver powerful messages.
 </p>
 
 - 💧 Currently working with Elixir and Phoenix LiveView
