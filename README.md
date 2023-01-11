@@ -6,7 +6,7 @@ I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. C
 </p>
 
 - 💧 Currently working with Elixir and Phoenix LiveView
-- 🔎 I’m looking to improve my UX/UI and technical writing skills
+- 🔎 Working on my design skills - you can see [my work on Dribbble](https://theosaurus-rex.dribbble.com/).
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [theosaurus13@gmail.com](mailto:theosaurus@gmail.com).
 
