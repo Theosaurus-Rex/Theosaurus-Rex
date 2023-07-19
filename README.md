@@ -7,7 +7,7 @@ I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. C
 
 - 💧 Currently working with Elixir and Phoenix LiveView
 - 🧰 Currently building my reworked Portfolio Site for 2023
-- 📗 Currently reading "Buid Your Own Web Framework in Elixir" by Aditya Iyengar
+- 📗 Currently reading "Build Your Own Web Framework in Elixir" by Aditya Iyengar
 
 <h2 align="center">Tech Stack</h2> 
 <p align="center">
