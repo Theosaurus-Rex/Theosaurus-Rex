@@ -1,4 +1,4 @@
-<h3 align="center"> Hey, I'm Theo!</h3>
+<h1 align="center"> Hey, I'm Theo!</h1>
 
 <h3 align="center">About Me</h3>
 <p align="center">
