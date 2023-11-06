@@ -10,7 +10,6 @@ I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. C
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir"/>
