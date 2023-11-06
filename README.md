@@ -5,10 +5,6 @@
 I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. Currently, my tech stack consists of Elixir, Phoenix LiveView and the Ash Framework. I enjoy front-end development and I am always eager to create the best user experience possible! I also have a passion for the intersection of art and code and how technology can help artists innovate, create, and deliver powerful messages.
 </p>
 
-- 💧 Currently working with Elixir and Phoenix LiveView
-- 🧰 Currently building my reworked Portfolio Site for 2023
-- 📗 Currently reading "Build Your Own Web Framework in Elixir" by Aditya Iyengar
-
 <h2 align="center">Tech Stack</h2> 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
