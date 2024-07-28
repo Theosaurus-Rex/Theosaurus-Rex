@@ -14,8 +14,9 @@ I'm a tech consultant currently working for Alembic in Sydney, NSW, Australia. I
 <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql"/>
-<img src="https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=elixir-phoenix"/>
+<img src="https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=phoenixframework"/>
 <img src="https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
